@@ -1,0 +1,6 @@
+@Resolvo.Api_HostAddress = http://localhost:5009
+
+GET {{Resolvo.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
